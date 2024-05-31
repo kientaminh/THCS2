@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1714297077 source:c:\users\dell\onedrive\máy tính\b23dcdt151\c04046\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+
